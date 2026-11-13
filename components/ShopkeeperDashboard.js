@@ -521,7 +521,7 @@ export default function ShopkeeperDashboard() {
                     </div>
                     {act.transcript && (
                       <div className="text-[11px] text-amber-800 italic mt-0.5">
-                        "{act.transcript}"
+                        &ldquo;{act.transcript}&rdquo;
                       </div>
                     )}
                   </div>

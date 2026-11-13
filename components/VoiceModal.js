@@ -447,7 +447,7 @@ export default function VoiceModal({ isOpen, onClose, initialMode = "shopkeeper"
                     )}
                   </div>
                   <p className="text-base sm:text-lg font-bold text-amber-950 italic">
-                    "{transcript}"
+                    &ldquo;{transcript}&rdquo;
                   </p>
                 </div>
               )}
