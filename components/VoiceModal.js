@@ -598,7 +598,7 @@ export default function VoiceModal({
                   </div>
 
                   <p className="text-base font-bold text-amber-950 italic">
-                    "{transcript}"
+                    &quot;{transcript}&quot;
                   </p>
                 </div>
               )}
